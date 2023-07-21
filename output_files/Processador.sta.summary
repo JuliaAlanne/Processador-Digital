@@ -1,0 +1,53 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'clk'
+Slack : -8.140
+TNS   : -438.590
+
+Type  : Slow Model Setup 'DPCU:DatapathnControlUnit|ControlUnit:ControlU|Controller:Control|stateReg.Stoi'
+Slack : -3.604
+TNS   : -20.361
+
+Type  : Slow Model Hold 'clk'
+Slack : -1.419
+TNS   : -50.477
+
+Type  : Slow Model Hold 'DPCU:DatapathnControlUnit|ControlUnit:ControlU|Controller:Control|stateReg.Stoi'
+Slack : 0.990
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk'
+Slack : -1.627
+TNS   : -242.302
+
+Type  : Slow Model Minimum Pulse Width 'DPCU:DatapathnControlUnit|ControlUnit:ControlU|Controller:Control|stateReg.Stoi'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'clk'
+Slack : -3.180
+TNS   : -169.528
+
+Type  : Fast Model Setup 'DPCU:DatapathnControlUnit|ControlUnit:ControlU|Controller:Control|stateReg.Stoi'
+Slack : -1.450
+TNS   : -5.673
+
+Type  : Fast Model Hold 'clk'
+Slack : -1.134
+TNS   : -48.902
+
+Type  : Fast Model Hold 'DPCU:DatapathnControlUnit|ControlUnit:ControlU|Controller:Control|stateReg.Stoi'
+Slack : 0.643
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk'
+Slack : -1.627
+TNS   : -242.302
+
+Type  : Fast Model Minimum Pulse Width 'DPCU:DatapathnControlUnit|ControlUnit:ControlU|Controller:Control|stateReg.Stoi'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------
